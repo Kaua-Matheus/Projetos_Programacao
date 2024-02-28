@@ -1,11 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="25eb9780-e451-4658-a8d0-090215cbd859" name="Changes" comment="" />
+    <list default="true" id="25eb9780-e451-4658-a8d0-090215cbd859" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/projeto_cad_usuarios/app_cad_usuarios/templates/usuarios/home.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projetos/pandas_teste 1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/matemática discreta/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/projetos/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/matemática discreta/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/projetos/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/matemática discreta/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/projetos/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/matemática discreta/.idea/matemática discreta.iml" beforeDir="false" afterPath="$PROJECT_DIR$/projetos/.idea/matemática discreta.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/matemática discreta/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/projetos/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/matemática discreta/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/projetos/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/matemática discreta/Mersenne.py" beforeDir="false" afterPath="$PROJECT_DIR$/projetos/Mersenne.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/matemática discreta/crivo_erastóstenes.py" beforeDir="false" afterPath="$PROJECT_DIR$/projetos/crivo_erastóstenes.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_projects/jogo_cobrinha/BoxCat Games - CPU Talk.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/projetos_pygame/jogo_cobrinha/BoxCat Games - CPU Talk.mp3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_projects/jogo_cobrinha/cobrinha.py" beforeDir="false" afterPath="$PROJECT_DIR$/projetos_pygame/jogo_cobrinha/cobrinha.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_projects/jogo_cobrinha/smw_kick.wav" beforeDir="false" afterPath="$PROJECT_DIR$/projetos_pygame/jogo_cobrinha/smw_kick.wav" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_projects/jogo_dinossauro/dinossaur.py" beforeDir="false" afterPath="$PROJECT_DIR$/projetos_pygame/jogo_dinossauro/dinossaur.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_projects/jogo_dinossauro/imagens/dino_sprite_sheet.png" beforeDir="false" afterPath="$PROJECT_DIR$/projetos_pygame/jogo_dinossauro/imagens/dino_sprite_sheet.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_projects/jogo_dinossauro/sons/sons_death_sound.wav" beforeDir="false" afterPath="$PROJECT_DIR$/projetos_pygame/jogo_dinossauro/sons/sons_death_sound.wav" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_projects/jogo_dinossauro/sons/sons_jump_sound.wav" beforeDir="false" afterPath="$PROJECT_DIR$/projetos_pygame/jogo_dinossauro/sons/sons_jump_sound.wav" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_projects/jogo_dinossauro/sons/sons_score_sound.wav" beforeDir="false" afterPath="$PROJECT_DIR$/projetos_pygame/jogo_dinossauro/sons/sons_score_sound.wav" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_projects/jogodavelha.py" beforeDir="false" afterPath="$PROJECT_DIR$/projetos_pygame/jogodavelha.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_projects/relogio.py" beforeDir="false" afterPath="$PROJECT_DIR$/projetos_pygame/relogio.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -18,56 +49,15 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/mathe/OneDrive/Documentos/GitHub/Python_exx"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/mathe/OneDrive/Documentos/GitHub/Python_exx&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Python.dinossaur (1)">
-    <configuration name="cobrinha (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Projects" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_projects/jogo_cobrinha" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_projects/jogo_cobrinha/cobrinha.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="cobrinha" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Projects" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/cobrinha.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+}</component>
+  <component name="RunManager" selected="Python.pandas_teste 1">
     <configuration name="dinossaur (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Projects" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -89,7 +79,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="dinossaur" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="pandas_teste 1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Projects" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -97,11 +87,74 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/projetos" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/dinossaur.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\mathe\OneDrive\Documentos\GitHub\Projects\projetos\pandas_teste 1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="teste1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Projects" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Testes" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Testes/teste1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="urls" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Projects" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/projeto_cad_usuarios/projeto_cad_usuarios" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/projeto_cad_usuarios/projeto_cad_usuarios/urls.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="views" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Projects" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/projeto_cad_usuarios/app_cad_usuarios" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/projeto_cad_usuarios/app_cad_usuarios/views.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -112,10 +165,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.pandas_teste 1" />
+        <item itemvalue="Python.teste1" />
+        <item itemvalue="Python.views" />
+        <item itemvalue="Python.urls" />
         <item itemvalue="Python.dinossaur (1)" />
-        <item itemvalue="Python.dinossaur" />
-        <item itemvalue="Python.cobrinha (1)" />
-        <item itemvalue="Python.cobrinha" />
       </list>
     </recent_temporary>
   </component>

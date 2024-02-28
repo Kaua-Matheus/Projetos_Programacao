@@ -23,7 +23,7 @@ def relogio():
                 sys.exit()
         hora = dt.datetime.now().hour
         minutos = dt.datetime.now().minute
-        text = fonte.render(f'{hora}:{minutos}', True, (0, 255, 0), (0, 0, 128))
+        text = fonte.render(f'{hora}:{minutos}', True, (0, 0, 0), (155, 155, 155))
         textRect = text.get_rect()
         textRect.center = (600 // 2, 100)
         DISPLAYSURF.fill((255, 255, 255))

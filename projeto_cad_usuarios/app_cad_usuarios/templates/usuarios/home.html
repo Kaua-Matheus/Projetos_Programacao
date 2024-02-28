@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <title>Cadastro de Usuários</title>
+    <style>
+        nav{
+        background-color: aquamarine !important;
+        padding: 40px;
+        }
+        .container{
+        text-align: center;
+        }
+    </style>
+</head>
+<body>
+    <nav>
+        <aside>
+            Cadastre-me
+        </aside>
+    </nav>
+    <form action="{% url 'listagem_usuarios' %}" method="post">
+        {% csrf_token %}
+        <div class="container">
+        <h1>Cadastro de Usuários</h1>
+        <input type="text" name="nome" id="nome" placeholder="Nome">
+        <input type="text" name="idade" id="idade" placeholder="Idade">
+        <button class="form-control-sm">Enviar</button>
+    </div>
+    </form>
+
+
+    <script >
+        function comecar(){
+        alert('Trouxa!');
+        }
+    </script>
+
+</body>
+</html>
