@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="25eb9780-e451-4658-a8d0-090215cbd859" name="Changes" comment="">
+    <list default="true" id="25eb9780-e451-4658-a8d0-090215cbd859" name="Changes" comment="Melhorei o brute_force.py com o intuito de poder utiliza-lo como aprendizado.&#10;Aprendi sobre o intertools, ferramenta muito legal para algumas operações específicas, utilizarei principalmente a função product(), para gerar possibilidades de combinações das senhas.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Projetos_python/brute_force.py" beforeDir="false" afterPath="$PROJECT_DIR$/Projetos_python/brute_force.py" afterDir="false" />
     </list>
@@ -29,14 +29,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "DefaultHtmlFileTemplate": "HTML File",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/mathe/OneDrive/Documentos/estudos/GitHub/Projetos_Programacao"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/mathe/OneDrive/Documentos/estudos/GitHub/Projetos_Programacao&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Python.brute_force">
     <configuration name="brute_force" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Projects" />
@@ -162,6 +162,14 @@
       <option name="presentableId" value="Default" />
       <updated>1684430428913</updated>
     </task>
+    <task id="LOCAL-00001" summary="Melhorei o brute_force.py com o intuito de poder utiliza-lo como aprendizado.&#10;Aprendi sobre o intertools, ferramenta muito legal para algumas operações específicas, utilizarei principalmente a função product(), para gerar possibilidades de combinações das senhas.">
+      <created>1709131266844</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1709131266844</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -174,5 +182,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Melhorei o brute_force.py com o intuito de poder utiliza-lo como aprendizado.&#10;Aprendi sobre o intertools, ferramenta muito legal para algumas operações específicas, utilizarei principalmente a função product(), para gerar possibilidades de combinações das senhas." />
+    <option name="LAST_COMMIT_MESSAGE" value="Melhorei o brute_force.py com o intuito de poder utiliza-lo como aprendizado.&#10;Aprendi sobre o intertools, ferramenta muito legal para algumas operações específicas, utilizarei principalmente a função product(), para gerar possibilidades de combinações das senhas." />
   </component>
 </project>
